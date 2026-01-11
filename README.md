@@ -14,6 +14,8 @@ Right now I'm working towards a game engine. I want my projects to be completly 
 
 Excerpt from PitMap status: *"Not 100% of the BMP format's capabilities are supported just yet, it's really only the popular/common ones. I'll add more support as I or others run into files that PitMap can't parse."*
 
+<br>
+
 ## Project Statuses
 
 (in order of functionality)

@@ -8,6 +8,8 @@
 <br>
 Right now I'm working towards a game engine. I want my projects to be completly my own, so I'm making all the libraries that I'd need for the engine. So far I've made a 3D renderer, an image parser, and a font parser. Those, too, also use only libraries I make (besides std libs and SDL for the renderer's window. Making a window seems pretty difficult). I've got plans for a physics engine, audio library, GUI library, and more. Some stuff I've started on, like the physics engine and audio library. I hope to get this finished by the time I'm 18 so that I can boast that I did all this when I was still a kid lol
 
+<br>
+
 ## File Parsing Philosophy
 
 Excerpt from PitMap status: *"Not 100% of the BMP format's capabilities are supported just yet, it's really only the popular/common ones. I'll add more support as I or others run into files that PitMap can't parse."*
@@ -47,6 +49,8 @@ GUI library that can only make a single rounded rectangle.
 ### Pomelo
 
 A game engine that is currently just a file tree and an empty `int main()`.
+
+<br>
 
 ## Pinned Repos
 

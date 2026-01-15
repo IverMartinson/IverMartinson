@@ -1,6 +1,8 @@
 # Iver Martinson, C Programmer
 
-<a href="https://mynameisthe.com">mynameisthe.com</a>
+# I've Moved to my Own Git Hosting
+
+* <a href="https://git.mynameisthe.com/">See my Stuff Here!!</a>
 
 ## What I'm Working On
 
